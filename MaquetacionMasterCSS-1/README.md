@@ -5,7 +5,7 @@ Primer proyecto de maquetación web para el curso Máster en CSS con Victor Robl
 
 ## Screenshot
 
-![Screenshot](/img/design.jpg)
+![Screenshot](/MaquetacionMasterCSS-1/img/design.jpg)
 
 ## Build in
 

@@ -8,7 +8,7 @@ responsivo a este proyecto.
 
 ## Screenshots
 
-![](/img/index.jpg)
+![](/MaquetacionMasterCSS-2/img/index.jpg)
 
 
 ## Build in
