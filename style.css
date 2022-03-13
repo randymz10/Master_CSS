@@ -1,3 +1,5 @@
+/*ESTILOS GENERALES*/
+
 *{
     margin: 0px;
     padding: 0px;
@@ -12,25 +14,29 @@ body{
 }
 
 .wrap{
-    width: 500px;
+    width: 600px;
     margin: 0px auto;
 }
 
-.header{
+/*CABECERA*/
+
+#header{
     height: 150px;
 }
 
-.header h1{
+#header h1{
     margin: 30px;
     letter-spacing: 5px;
     font-size: 3em;
 }
 
-.header p{
+#header p{
     font-size: 1.5em;
 }
 
-.btn{
+/*CONTENIDO PRINCIPAL*/
+
+#main .btn{
     display: block;
     text-decoration: none;
     margin: 25px;
@@ -41,11 +47,17 @@ body{
     font-size: 20px;
 }
 
-.btn:hover{
+#main .btn:hover{
     background-color: #db9b06;
 }
 
-.footer{
+#main .btn:active{
+    background-color: #EEEEEE;
+}
+
+/*PIE DE PÁGINA*/
+
+#footer{
     background-color: #222831;
     position: absolute;
     bottom: 0;
@@ -54,23 +66,23 @@ body{
     text-align: center;
 }
 
-.footer p{
+#footer p{
     font-size: 20px;
     letter-spacing: 1px;
     line-height: 80px;
 }
 
-.social-media a{
+#footer .social-media a{
     text-decoration: none;
-    font-size: 30px;
-    margin: 5px 0px 0px 10px;
+    font-size: 35px;
+    margin: 5px 20px 0px 20px;
     color: #EEEEEE;
 }
 
-.social-media a:hover{
+#footer .social-media a:hover{
     color: #FFD369;
 }
 
-.social-media a:active{
+#footer .social-media a:active{
     color: #db9b06;
 }

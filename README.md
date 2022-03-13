@@ -1,6 +1,6 @@
 # Master_CSS
 
-Ejercicios y proyectos del curso Máster en CSS de udemy con Victor Robles 
+Ejercicios y proyectos del curso Máster en CSS de udemy con Victor Robles.
 
 ## Sumario
 
