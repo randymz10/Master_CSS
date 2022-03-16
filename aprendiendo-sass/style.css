@@ -35,6 +35,18 @@ p {
   color: orange;
 }
 
+.caja {
+  border: 5px solid red;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px black;
+}
+
+.listado {
+  border: 5px solid green;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px yellow;
+}
+
 h1 {
   text-decoration: underline;
 }
