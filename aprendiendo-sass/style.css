@@ -85,6 +85,13 @@ h1 {
   margin: 10px;
 }
 
+/* Estructuras de control
+Condicionales - if, For, Each, while 
+*/
+h1 {
+  color: lightsalmon;
+}
+
 h1 {
   text-decoration: underline;
 }

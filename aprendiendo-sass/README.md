@@ -8,6 +8,7 @@ Código de la sección aprendiendo sobre el preprocesador SASS para el curso de 
 - Módulos
 - Herencia
 - Operadores
+- Condicionales
 
 ## Autor
 [@randymz10](https://github.com/randymz10)
