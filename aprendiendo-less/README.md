@@ -3,8 +3,11 @@ Códigos de las sección aprendiendo LESS del curso Master en CSS con Victor Rob
 
 ## Sumario
 
--Instalación y variables 
--
+- Instalación y variables 
+- Anidación
+- Operadores
+- Funciones  condicionales
+- Bucles
 
 
 ## Autor
