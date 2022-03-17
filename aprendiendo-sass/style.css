@@ -85,11 +85,48 @@ h1 {
   margin: 10px;
 }
 
-/* Estructuras de control
-Condicionales - if, For, Each, while 
-*/
 h1 {
   color: lightsalmon;
+}
+
+.listado ul li:nth-child(1) {
+  color: orange;
+  font-size: 11px;
+}
+
+.listado ul li:nth-child(2) {
+  color: orange;
+  font-size: 12px;
+}
+
+.listado ul li:nth-child(3) {
+  color: orange;
+  font-size: 13px;
+}
+
+.listado ul li:nth-child(4) {
+  color: orange;
+  font-size: 14px;
+}
+
+.listado ul li:nth-child(5) {
+  color: orange;
+  font-size: 15px;
+}
+
+.listado ul li:nth-child(6) {
+  color: orange;
+  font-size: 16px;
+}
+
+.listado ul li:nth-child(7) {
+  color: orange;
+  font-size: 17px;
+}
+
+.listado ul li:nth-child(8) {
+  color: orange;
+  font-size: 18px;
 }
 
 h1 {

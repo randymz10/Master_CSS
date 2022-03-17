@@ -111,9 +111,7 @@ $wrap: 900px;
     margin: 10px;
 }
 
-/* Estructuras de control
-Condicionales - if, For, Each, while 
-*/
+//Condicionales - if
 $color-fondo: black;
 h1{
     @if $color-fondo == #ccc {
@@ -122,5 +120,15 @@ h1{
         color: lightsalmon;
     } @else{
         color: pink;
+    }
+}
+
+//Bucles (FOR)
+$contador: 1;
+
+@for $contador from 1 through 8{
+    .listado ul li:nth-child(#{$contador}) {
+        color: orange;
+        font-size: $contador + 10px;
     }
 }

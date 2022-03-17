@@ -9,6 +9,7 @@ Código de la sección aprendiendo sobre el preprocesador SASS para el curso de 
 - Herencia
 - Operadores
 - Condicionales
+- Bucles
 
 ## Autor
 [@randymz10](https://github.com/randymz10)
