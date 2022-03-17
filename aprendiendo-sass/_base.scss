@@ -88,3 +88,25 @@ p{
     color: green;
     border-color: green;
 }
+
+//Operadores
+.clearfix{
+    clear:both;
+}
+h1{
+    font-size: 20px + 5px - 1px;
+}
+
+$caja: 200px;
+$wrap: 900px;
+
+.cajas{
+    width:900px;
+    margin: 0px auto;
+}
+
+.caja{
+    float: left;
+    width: $caja / $wrap * 100%;
+    margin: 10px;
+}

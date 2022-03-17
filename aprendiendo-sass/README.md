@@ -6,3 +6,8 @@ Código de la sección aprendiendo sobre el preprocesador SASS para el curso de 
 - Variables 
 - Anidación
 - Módulos
+- Herencia
+- Operadores
+
+## Autor
+[@randymz10](https://github.com/randymz10)
