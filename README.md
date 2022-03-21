@@ -10,6 +10,7 @@ Ejercicios y proyectos del curso Máster en CSS de udemy con Victor Robles.
 - SASS
 - LESS
 - Flexbox
+- Maquetación 3 con Flexbox
 
 ## Demo
 
