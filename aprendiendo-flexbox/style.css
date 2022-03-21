@@ -10,7 +10,6 @@ body{
     flex-wrap: wrap;
     */
     flex-flow: row wrap;
-
     border: 3px solid black;
     padding: 5px;
 }
@@ -30,7 +29,7 @@ body{
     background: red;
 }
 
-.grenn{
+.green{
     background: green;
 }
 
