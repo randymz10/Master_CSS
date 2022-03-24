@@ -4,9 +4,9 @@ Exercises and projects from the Udemy CSS Master course with Victor Robles.
 
 ## Contents
 
-- Layout 1
+- [Layout 1](https://github.com/randymz10/Master_CSS/tree/master/MaquetacionMasterCSS-1)
 - Learning responsive
-- Layout 2 responsive
+- [Layout 2 responsive](https://github.com/randymz10/Master_CSS/tree/master/MaquetacionMasterCSS-2)
 - SASS
 - LESS
 - Flexbox
