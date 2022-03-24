@@ -1,10 +1,6 @@
-# Maquetacion 2 Master en CSS con Victor Robles
+# Layout 2 Master in CSS with Victor Robles
 
-Segudo proyecto de maquetación web avanzada del 
-curso de Udemy con Victor Robles de Master en CSS 
-donde fueron aplicados animaciones y diseño 
-responsivo a este proyecto.
-
+Second advanced web layout project of the Udemy course with Victor Robles from Master in CSS where animations and responsive design were applied to this project.
 
 ## Screenshots
 
