@@ -1,21 +1,21 @@
-# Master_CSS
+# Master in CSS
 
-Ejercicios y proyectos del curso Máster en CSS de udemy con Victor Robles.
+Exercises and projects from the Udemy CSS Master course with Victor Robles.
 
-## Sumario
+## Contents
 
-- Maquetación 1
-- Aprendiendo responsive
-- Maquetación 2 responsive 
+- Layout 1
+- Learning responsive
+- Layout 2 responsive
 - SASS
 - LESS
 - Flexbox
-- Maquetación 3 con Flexbox
+- Layout 3 with Flexbox
 
 ## Demo
 
 https://randymz10.github.io/Master_CSS/
 
-## Autor
+## Author
 
 [@randymz10](https://github.com/randymz10)
