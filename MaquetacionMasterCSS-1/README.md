@@ -1,7 +1,7 @@
 
-# Maquetación 1 Master en CSS con Victor Robles
+# Layout 1 Master in CSS with Victor Robles
 
-Primer proyecto de maquetación web para el curso Máster en CSS con Victor Robles de Udemy donde fueron aplicados los básicos de CSS y HTML. Cómo resultado surgió la página estática de un blog.
+First web layout project for the CSS Master course with Victor Robles from Udemy where the basics of CSS and HTML were applied. As a result, the static page of a blog arose.
 
 ## Screenshot
 
