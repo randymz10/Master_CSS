@@ -31,6 +31,11 @@
     flex-grow: 1;
     flex-basis: 65%;
 
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 35px;
+
     padding: 10px;
     margin-left: 20px;
     color: black;
@@ -164,3 +169,11 @@
     color: #eee;
 }
 
+#footer{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+
+    height: 120px;
+    
+}
