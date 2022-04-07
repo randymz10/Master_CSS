@@ -29,7 +29,12 @@
 
 .logo{
     flex-grow: 1;
-    flex-basis: 65%;
+    flex-basis: 55%;
+
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 35px;
 
     padding: 10px;
     margin-left: 20px;
@@ -164,3 +169,90 @@
     color: #eee;
 }
 
+#footer{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+
+    height: 120px;
+    align-items:center;
+    border-top: 1px solid rgba(225, 225, 226, 0.8);
+}
+
+#footer .logo{
+    opacity: 0.5;
+    flex-basis: auto;
+    flex-grow: 1;
+    order: 2;
+    text-align: right;
+    margin-right: 20px;
+}
+
+#footer .info{
+    flex-grow: 1;
+    order: 1;
+    margin-left: 20px;
+    color: #444;
+}
+
+@media (max-width: 1334px){
+    #header{
+        text-align: center;
+    }
+    #menu > ul{
+        margin-top: 20px;
+        align-items: flex-start;
+        justify-content: space-evenly;
+    }
+}
+
+@media (max-width: 646px){
+
+    #content{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    #aside{
+        margin-right: 0px;
+    }
+
+    #aside ul{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+    }
+
+    #aside ul li{
+        flex-grow: 1;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .proyect{
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    #footer .logo{
+        flex-grow: 1;
+        order: 1;
+        flex-basis: 100%;
+        text-align: center;
+        margin: 0px;
+    }
+
+    #footer .info{
+        flex-grow: 1;
+        order: 2;
+        margin-left: 20px;
+        color: #444;
+        flex-basis: 100%;
+        text-align: center;
+        margin: 0px;
+    }
+}

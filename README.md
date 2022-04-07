@@ -10,7 +10,7 @@ Exercises and projects from the Udemy CSS Master course with Victor Robles.
 - SASS
 - LESS
 - Flexbox
-- Layout 3 with Flexbox
+- [Layout 3 with Flexbox](https://github.com/randymz10/Master_CSS/tree/master/MaquetacionMasterCSS-3)
 
 ## Demo
 
