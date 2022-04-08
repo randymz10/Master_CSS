@@ -4,10 +4,16 @@ body{
 }
 
 .layout{
+
+    width: 1200px;
+    min-height: 400px;
+    margin: 0px auto;
+
     /*Definir el grid Layout*/
     display: grid;
     grid-template-columns: /*calc(50% - 10px) calc(50% - 10px) repeat(4, calc(25% - 10px)) 1fr 1fr*/ repeat(2, 1fr) ;
-
+    /*Filas*/
+    grid-template-rows: 1fr 1fr 1fr;
     /*Espacio entre elementos grid*/
     grid-gap: 10px;
 
@@ -24,6 +30,9 @@ body{
 }
 
 .layout .red{
+    /*Expandir columnas*/
+    grid-column-start: 1;
+    grid-column-end: 3;
     background: red;
 }
 
@@ -36,5 +45,10 @@ body{
 }
 
 .layout .pink{
+    /*
+    grid-column-start: 1;
+    grid-column-end: 3;
+    */
+    grid-column: 1 / 3;
     background: pink;
 }
