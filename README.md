@@ -11,6 +11,9 @@ Exercises and projects from the Udemy CSS Master course with Victor Robles.
 - LESS
 - Flexbox
 - [Layout 3 with Flexbox](https://github.com/randymz10/Master_CSS/tree/master/MaquetacionMasterCSS-3)
+- GRID
+- [Layout 4 with GRID](https://github.com/randymz10/Master_CSS/tree/master/MaquetacionMasterCSS-4)
+- Bootstrap 4
 
 ## Demo
 
