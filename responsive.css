@@ -2,10 +2,9 @@
     .wrap{
         width: 80%;
     }
-
-    #main .btn{
-        height: 4em;
-        line-height: 2.5em;
+    
+    #main{
+        width: 100%;
     }
 
     #footer{
@@ -13,7 +12,7 @@
     }
 
     #footer p{
-        font-size: 1.5em;
+        font-size: 1em;
     }
 
     #footer .social-media a{
@@ -25,7 +24,9 @@
 @media(max-width: 470px){
     
     #main .btn{
-        font-size: 1.5em;
+        margin: 25px 0px;
+        width: 100%;
+        font-size: 1.1em;
         line-height: normal;
     }
 
@@ -38,6 +39,10 @@
 
     #header h1{
         font-size: 2.7em;
+    }
+
+    #main .btn{
+        font-size: 1em;
     }
 
     #footer p{
@@ -58,6 +63,11 @@
         font-size: 1.5em;
     }
 
+    #main{
+        width: 80%;
+        margin: 0px auto;
+    }
+
     #footer p{
         font-size: 1em;
     }
@@ -74,12 +84,10 @@
     }
 
     #header p{
-        font-size: 1.4em;
+        font-size: 1.2em;
+        margin: 0px 20px;
     }
 
-    #main .btn{
-        font-size: 1.4em;
-    }
     #footer{
         height: 100px;
     }
@@ -90,5 +98,14 @@
 
     #footer .social-media a{
         display: none
+    }
+}
+
+@media(max-height: 650px){
+    #main{
+        height: 330px;
+    }
+    #footer{
+        position:relative;
     }
 }
