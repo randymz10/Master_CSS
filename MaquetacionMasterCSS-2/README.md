@@ -21,8 +21,8 @@ https://randymz10.github.io/MaquetacionMasterCSS-2/
 
 ## Author
 
-- [@randymz10](https://github.com/randymz10)
+- **GitHub** [@randymz10](https://github.com/randymz10)
 
-- LinkedIn: https://www.linkedin.com/in/randymz10/
+- **LinkedIn:** https://www.linkedin.com/in/randymz10/
 
-- Email: randymz10@gmail.com
+- **Email:** randymz10@gmail.com
