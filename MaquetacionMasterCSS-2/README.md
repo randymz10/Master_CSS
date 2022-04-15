@@ -4,7 +4,7 @@ Second advanced web layout project of the Udemy course with Victor Robles from M
 
 ## Screenshots
 
-![](/MaquetacionMasterCSS-2/img/index.jpg)
+![](https://github.com/randymz10/Master_CSS/blob/master/MaquetacionMasterCSS-2/img/index.jpg)
 
 
 ## Build in
