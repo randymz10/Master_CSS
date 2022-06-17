@@ -15,7 +15,7 @@ First web layout project for the CSS Master course with Victor Robles from Udemy
 
 ## Demo
 
-<a href="MaquetacionMasterCSS-1" target="_blank">https://randymz10.github.io/Master_CSS/MaquetacionMasterCSS-1/index.html/</a>
+<a href="MaquetacionMasterCSS-1" target="_blank">https://randymz10.github.io/Master_CSS/MaquetacionMasterCSS-1/index.html</a>
 
 ## Author
 
