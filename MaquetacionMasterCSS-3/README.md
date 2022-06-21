@@ -4,7 +4,7 @@ Third advanced web layout project of the Udemy course with Victor Robles from Ma
 
 ## Screenshots
 
-![](https://github.com/randymz10/Master_CSS/blob/master/MaquetacionMasterCSS-3/design.png)
+![](https://github.com/randymz10/Master_CSS/blob/master/MaquetacionMasterCSS-3/img/maquetacionFlexbox.png)
 
 
 ## Build in

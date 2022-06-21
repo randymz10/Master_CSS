@@ -4,7 +4,7 @@ Four advanced web layout project of the Udemy course with Victor Robles from Mas
 
 ## Screenshots
 
-![](https://github.com/randymz10/Master_CSS/blob/master/MaquetacionMasterCSS-4/design.png)
+![](https://github.com/randymz10/Master_CSS/blob/master/MaquetacionMasterCSS-4/img/maquetacionGrid.png)
 
 
 ## Build in
@@ -16,7 +16,7 @@ Four advanced web layout project of the Udemy course with Victor Robles from Mas
 
 ## Demo
 
-[MaquetacionMasterCSS-4](https://randymz10.github.io/Master_CSS/MaquetacionMasterCSS-4/index.html)
+[MaquetacionMasterCSS-4 ](https://randymz10.github.io/Master_CSS/MaquetacionMasterCSS-4/index.html)
 
 
 ## Author
